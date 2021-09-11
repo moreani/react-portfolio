@@ -75,5 +75,8 @@ export const testimonials = [
 ];
 
 export const skills = [
+  "HTML & CSS",
   "JavaScript",
+  "React",
+  "Wordpress Management"
 ];
